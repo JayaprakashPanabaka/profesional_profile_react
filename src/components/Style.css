@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin:0px;
+    padding: 0px;
+}
+
+.bg-container {
+    background-color: beige;
+}
+
+nav {
+    display:flex;
+    align-items: center;
+    box-shadow: 10px rgba(rgb(226, 20, 20), green, blue, alpha);
+    padding: 20px 15px;
+    
+}
+
+.nav-right {
+    display: flex;
+    align-items: right;
+    float: right;
+    text-align: right;
+}
+
+a {
+    padding:10px 10px;
+    margin: 5px 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+button {
+    background: #000;
+    color: #fff;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.image {
+   
+    max-width: 60px;
+    
+}
+
+.card-container {
+    margin: 15px;
+    padding: 40px;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-img {
+    display: flex;
+    max-width: 70vw;
+    max-height: 70vh;
+    padding: 20px;
+   
+}
+
+.card-text {
+    padding: 20px;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+span {
+    background-color: aliceblue;
+    padding:5px 5px;
+    margin: 5px 5px;
+    border: 1px black solid;
+    border-radius: 5px;
+   
+}
+
+.text {
+    font-family: "Bree serif";
+    color: #9d9898;
+    font-size: 14px;
+}
+
+.card2-div2 {
+    margin: 5px;
+}
+
+
+
+
+
+
+
